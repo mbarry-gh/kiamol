@@ -4,7 +4,7 @@
     "main": "server.js",
     "author": "kiamol",
     "dependencies": {
-      "nats" : "1.4.9",
+      "nats" : "1.4.12",
       "uuid" : "8.2.0"
     }
 }
