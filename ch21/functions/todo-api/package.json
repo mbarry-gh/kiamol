@@ -5,7 +5,7 @@
     "author": "kiamol",
     "dependencies": {
       "nats" : "1.4.9",
-      "uuid" : "8.2.0"
+      "uuid" : "8.3.2"
     }
 }
   
