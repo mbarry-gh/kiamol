@@ -14,7 +14,7 @@
     "vue-resource": "^0.1.17",
     "body-parser": "^1.14.1",
     "errorhandler": "^1.4.2",
-    "method-override": "^2.3.5",
+    "method-override": "^3.0.0",
     "morgan": "^1.6.1"
   },
   "engines": {
